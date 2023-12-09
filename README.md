@@ -2,6 +2,11 @@
 
 [Paper](https://arxiv.org/abs/2312.01027) | [Porject Page](https://csqiangwen.github.io/projects/ldm-sid/)
 
+#### Taming Latent Diffusion Models to See in the_Dark
+Qiang Wen, [Yazhou Xing](https://yzxing87.github.io/), [Qifeng Chen](https://cqf.io/) <br/>
+The Hong Kong University of Science and Technology <br />
+arXiv, 2023
+
 <p align='center'>
 <img src='figs/Teaser.jpg' width=1000>
   <figcaption>
@@ -11,10 +16,7 @@
   </figcaption>
 </p>
 
-#### Taming Latent Diffusion Models to See in the_Dark
-Qiang Wen, [Yazhou Xing](https://yzxing87.github.io/), [Qifeng Chen](https://cqf.io/) <br/>
-The Hong Kong University of Science and Technology <br />
-arXiv, 2023
+
 
 ## Citation
 If you find this repository useful for your research, please cite the following work.
