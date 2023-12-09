@@ -11,5 +11,8 @@
   </figcaption>
 </p>
 
-
+#### Taming_Latent_Diffusion_Models_to_See_in_the_Dark
+Qiang Wen, [Yazhou Xing](https://yzxing87.github.io/), [Qifeng Chen](https://cqf.io/) <br/>
+The Hong Kong University of Science and Technology <br />
+arXiv, 2023
 
