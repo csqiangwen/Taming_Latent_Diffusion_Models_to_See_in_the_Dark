@@ -1,8 +1,8 @@
 # Taming_Latent_Diffusion_Models_to_See_in_the_Dark
 
-[Paper]([https://arxiv.org/abs/2302.05916](https://arxiv.org/abs/2312.01027))
+[Paper](https://arxiv.org/abs/2312.01027) | [Porject Page](https://csqiangwen.github.io/projects/ldm-sid/)
 <p align='center'>
-<img src='figs/Teaser.jpg' width=600>
+<img src='figs/Teaser.jpg' width=1000>
 </p>
 
 
