@@ -16,3 +16,15 @@ Qiang Wen, [Yazhou Xing](https://yzxing87.github.io/), [Qifeng Chen](https://cqf
 The Hong Kong University of Science and Technology <br />
 arXiv, 2023
 
+## Citation
+If you find this repository useful for your research, please cite the following work.
+```
+@misc{wen2023taming,
+      title={Taming Latent Diffusion Models to See in the Dark}, 
+      author={Qiang Wen and Yazhou Xing and Qifeng Chen},
+      year={2023},
+      eprint={2312.01027},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
