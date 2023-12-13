@@ -1,7 +1,7 @@
 ## Taming Latent Diffusion Models to See in the_Dark
 Qiang Wen, [Yazhou Xing](https://yzxing87.github.io/), [Qifeng Chen](https://cqf.io/) <br/>
 The Hong Kong University of Science and Technology <br />
-Technical Report, 2023 <br />
+arXiv, 2023 <br />
 [Paper](https://arxiv.org/abs/2312.01027) | [Porject Page](https://csqiangwen.github.io/projects/ldm-sid/) <br/>
 
 <p align='center'>
