@@ -30,3 +30,6 @@ If you find this repository useful for your research, please cite the following 
       primaryClass={cs.CV}
 }
 ```
+<p align='center'>
+<img src='figs/HKUST_VIL.png' width=500>
+</p>
